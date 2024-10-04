@@ -1,0 +1,40 @@
+{
+  "greetings": {
+    "hello": [
+      "Hello! How can I assist you today?",
+      "Hi there! Ready to get started?",
+      "Hey! What can I do for you?",
+      "Hello! How may I help you?",
+      "Greetings! What would you like to do today?",
+      "Hi! How can I help?",
+      "Hey there! What’s on your mind today?",
+      "Hello! How can I make your day better?"
+    ],
+    "good_morning": [
+      "Good morning! How can I assist you today?",
+      "Good morning! Ready to start the day?",
+      "Morning! What can I help you with today?",
+      "Good morning! How’s everything going?",
+      "Morning! What’s the plan for today?"
+    ],
+    "good_afternoon": [
+      "Good afternoon! How can I help?",
+      "Good afternoon! What can I assist you with?",
+      "Hey, good afternoon! How's your day going?",
+      "Afternoon! How can I assist you today?"
+    ],
+    "good_evening": [
+      "Good evening! How can I assist you?",
+      "Evening! What can I do for you?",
+      "Good evening! How’s your evening going?",
+      "Evening! Anything you need assistance with tonight?"
+    ],
+    "generic": [
+      "Hi! How can I assist you?",
+      "Hello! How may I help?",
+      "Greetings! What can I do for you today?",
+      "Hey! What’s on the agenda for today?",
+      "Hi there! Need any assistance?"
+    ]
+  }
+}
